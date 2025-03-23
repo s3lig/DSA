@@ -1,3 +1,6 @@
+Name- Selig Yussuf
+Admission No- 191282
+
 Question 1: With the aid of examples explain the rules of Big O notation in algorithm analysis (5 marks)
 
 1. Drop constants- This is by mupltipling with contants or using lower order terms does not affect growth rate and they are irrelevant for large input sizes.
